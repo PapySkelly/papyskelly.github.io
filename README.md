@@ -26,6 +26,8 @@ Heinrich Olivar
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5zaTmNJgShS7ZY6uRwnGsB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+---
+
 - [x] Got out of ELO Hell
 - [ ] Achieved Gold at least once in Valorant
 - [ ] Mental Health Support
