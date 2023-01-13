@@ -15,5 +15,5 @@ Heinrich Olivar
 
 | Time | Feels like? | Cause |
 | ----------- | ----------- | ----------- |
-| 8 Hours | Hell | Personal Life |
+| 14 Hours | Hell | Personal Life |
 | 10 Hours | Heaven | Free Time |
