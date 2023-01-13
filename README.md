@@ -12,3 +12,8 @@ Heinrich Olivar
 - CS:GO
 - TF2
 - Roblox
+
+| Time | Reason | Cause |
+| ----------- | ----------- | ----------- |
+| 8 Hours | Hell | Personal Things |
+| 10 Hours | Heaven | Free Time |
