@@ -13,7 +13,7 @@ Heinrich Olivar
 - TF2
 - Roblox
 
-| Time | Reason | Cause |
+| Time | Feels like? | Cause |
 | ----------- | ----------- | ----------- |
-| 8 Hours | Hell | Personal Things |
+| 8 Hours | Hell | Personal Life |
 | 10 Hours | Heaven | Free Time |
