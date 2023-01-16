@@ -13,7 +13,9 @@ Heinrich Olivar
 - TF2
 - Roblox
 
-| Time | Feels like? | Cause |
+### WARNING! THIS TABLE GIVES OFF EDGY 14 YEARS OLD VIBES!
+
+| Duration | Feels like? | Cause |
 | ----------- | ----------- | ----------- |
 | 14 Hours | Hell | Personal Life |
 | 10 Hours | Heaven | Free Time |
