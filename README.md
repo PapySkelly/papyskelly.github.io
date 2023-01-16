@@ -13,7 +13,7 @@ Heinrich Olivar
 - TF2
 - Roblox
 
-### WARNING! THIS TABLE GIVES OFF EDGY 14 YEARS OLD VIBES!
+### WARNING! THIS TABLE GIVES OFF EDGY 14 YEAR OLD VIBES!
 
 | Duration | Feels like? | Cause |
 | ----------- | ----------- | ----------- |
